@@ -6,21 +6,21 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_1.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Toronto, Ontario</p>
+    <p>LinkedIn: https://www.linkedin.com/in/basharjabbour/
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+Full-Stack Developer with breadth of know-how in web-development. I have worked on UI overhauls to building APIs and scripting automated uploads.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I have strong experience in JavaScript and some of the most popular web technologies (ReactJS, Knockout, Bootstrap, jQuery), and a variety of backend languages and frameworks (C#, .Net Core, Python, Django, Go), along with experience in other technologies (SQL, Mongo, Redis, AWS technologies). I have also worked as scrum master for variety of teams. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Mathematics, Software Development and a Technology enthusiast, I am motivated by projects that use my research, analysis and technical skills to empower people or that solve problems in a sustainable fashion. I value environments that are collaborative and team-oriented, coupled with opportunities for continuous growth and learning. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I love adding to my professional connections, reach out if you want to talk math, bridging the gap between technology and other fields (particularly humanities and education) or even sports.
